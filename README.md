@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ CSULB
 ------------------------
 
-Hello everyone, I'm Cole! I am currently a sophomore pursuing a Bachelor of Science in Computer Science at CSULB. I have a passion for the dynamic world of Full-Stack Development and Artificial Intelligence. Along my journey I am dedicated to improving my craft and inspiring the next generation of innovators.
+Hello everyone, I'm Cole! I am currently a sophomore pursuing a Bachelor of Science in Computer Science at CSULB. I have a passion for the dynamic world of Full-Stack Development. Along my journey I am dedicated to improving my craft and inspiring the next generation of innovators.
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [coleakira.com](http://coleakira.com)
