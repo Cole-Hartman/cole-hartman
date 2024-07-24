@@ -31,5 +31,4 @@ class Cole:
   <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,figma" alt="Skill Icons" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cole-hartman.cole-hartman&left_color=blue&right_color=orange)
-
+![Visitor Count](https : //profile-counter.glitch.me/cole-hartman/count.svg)
