@@ -9,8 +9,6 @@ class Cole:
         self.hobbies = ["Building Apps", "Skateboarding", "Guitar"]
 ```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cole-hartman.cole-hartman&left_color=green&right_color=red)
-
 ## About Me
 
 > Cole is a growth minded, aspiring full stack software engineer with experience building apps and services across many languages and technologies. Enthusiasm lies in creating an exceptional User Experience and seamless data management through robust and scalable code.
@@ -32,3 +30,6 @@ class Cole:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,figma" alt="Skill Icons" />
 </a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cole-hartman.cole-hartman&left_color=blue&right_color=orange)
+
