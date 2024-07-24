@@ -1,4 +1,5 @@
-## Hello, I'm Cole
+## Cole Hartman
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full-stack+web+and+app+developer;Experienced+UI%2FUX+Designer;Constantly+learning+new+technology)](https://git.io/typing-svg)
 
 ```python
 class Cole:
@@ -8,6 +9,7 @@ class Cole:
         self.major = "Computer Science"
         self.hobbies = ["Building Apps", "Skateboarding", "Guitar"]
 ```
+![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue)
 
 ## About Me
 
@@ -30,5 +32,3 @@ class Cole:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,figma" alt="Skill Icons" />
 </a>
-
-![Visitor Count](https : //profile-counter.glitch.me/cole-hartman/count.svg)
