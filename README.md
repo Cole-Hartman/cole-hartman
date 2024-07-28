@@ -9,7 +9,8 @@ class Cole:
         self.major = "Computer Science"
         self.hobbies = ["Building Apps", "Skateboarding", "Guitar"]
 ```
-![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue)
+<!-- Visitor counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue) -->
 
 ## About Me
 
