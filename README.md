@@ -16,6 +16,10 @@ class Cole:
 
 > Cole is a growth minded, aspiring full stack software engineer with experience building apps and services across many languages and technologies. Enthusiasm lies in creating an exceptional User Experience and seamless data management through robust and scalable code.
 
+<details>
+<summary><b>More Info</b></summary>
+<br>
+
 ### Languages
 
 <a href="https://skillicons.dev">
@@ -33,3 +37,6 @@ class Cole:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,figma" alt="Skill Icons" />
 </a>
+
+</details>
+</div>
