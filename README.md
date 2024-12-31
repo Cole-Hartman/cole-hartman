@@ -13,7 +13,7 @@ class Cole:
 
 ## About Me
 
-> I’m Cole, a growth minded, full stack software engineer with experience building apps and services across many languages and technologies. My enthusiasm lies in creating software that bridges the gap between complex systems and their demands, delivering robust and scalable solutions.
+> A growth minded, full stack software engineer with experience building apps and services across many languages and technologies. My enthusiasm lies in creating software that bridges the gap between complex systems and their demands, delivering robust and scalable solutions.
 
 <details>
 <summary><b>More Info</b></summary>
