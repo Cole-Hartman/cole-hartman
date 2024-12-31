@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full-stack+web+and+app+developer;Experienced+UI%2FUX+Designer;Constantly+learning+new+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full-stack+web+developer;Experienced+UI%2FUX+Designer;Constantly+learning+new+technology)](https://git.io/typing-svg)
 
 ```python
 class Cole:
