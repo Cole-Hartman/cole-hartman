@@ -6,7 +6,7 @@ class Cole:
         self.age = 20
         self.based_in = "California"
         self.major = "Computer Science"
-        self.hobbies = ["Building Tools", "Going Backpacking", "Skateboarding"]
+        self.hobbies = ["Building Software", "Backpacking", "Skateboarding"]
 ```
 <!-- Visitor counter -->
 <!-- ![](https://komarev.com/ghpvc/?username=cole-hartman&label=Visitors&base=253&abbreviated=true&style=flat&color=blue) -->
