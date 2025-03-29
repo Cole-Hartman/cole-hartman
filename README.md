@@ -3,7 +3,7 @@
 ```python
 class Cole:
     def __init__(self):
-        self.age = 20
+        self.age = 21
         self.based_in = "California"
         self.major = "Computer Science"
         self.hobbies = ["Building Software", "Backpacking", "Skateboarding"]
