@@ -15,6 +15,20 @@ class Cole:
 
 > A growth minded, full stack software engineer with experience building apps and services across many languages and technologies. My enthusiasm lies in creating software that bridges the gap between complex systems and their demands, delivering robust and scalable solutions.
 
+## My work at GitHub
+⚡ Improved the Personal Access Token experience by redesigning the permission selector to make authentication more intuitive and secure. [Try it out!](https://github.com/settings/personal-access-tokens/new)
+
+🔗 Implemented deep linking for FGPATs, allowing users to pre-fill token creation forms via URL.
+
+<details>
+<summary><b>Deep Linking Demo</b></summary>
+    
+https://github.com/user-attachments/assets/ff53bb67-554a-456d-9a98-07617f24ac6b
+
+</details>
+
+
+## Skills
 <details>
 <summary><b>More Info</b></summary>
 <br>
