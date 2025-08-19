@@ -18,7 +18,7 @@ class Cole:
 ## My work at GitHub
 ⚡ Improved the Personal Access Token experience by redesigning the permission selector to make authentication more intuitive and secure. [Try it out!](https://github.com/settings/personal-access-tokens/new)
 
-🔗 Implemented deep linking for FGPATs, allowing users to pre-fill token creation forms via URL.
+🔗 Implemented Deep Linking for FGPATs, allowing users to pre-fill token creation forms via URL.
 
 <details>
 <summary><b>Deep Linking Demo</b></summary>
