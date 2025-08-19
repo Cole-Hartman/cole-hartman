@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full-stack+Web+Developer;Experienced+UI%2FUX+Designer;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&pause=1000&width=620&lines=Prev+SWE+intern+%40+GitHub+%F0%9F%9A%80;Developed+infrastructure+powering+millions+%F0%9F%8C%8D;Building+secure+and+scalable+software%F0%9F%92%A1;Ask+me+about+Neovim%2C+Linux%2C+or+keyboards+%E2%8C%A8%EF%B8%8F)](https://git.io/typing-svg)
 
 ```python
 class Cole:
