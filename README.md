@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/ff53bb67-554a-456d-9a98-07617f24ac6b
 
 </details>
 
+[Changelog](https://github.blog/changelog/2025-08-26-template-urls-for-fine-grained-pats-and-updated-permissions-ui/)
 
 ## Skills
 <details>
